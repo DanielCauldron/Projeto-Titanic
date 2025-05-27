@@ -1,4 +1,4 @@
-##🚢 TITANIC PIPELINE
+## 🚢 TITANIC PIPELINE
 
 Este projeto demonstra um pipeline de engenharia de dados construído em Python para realizar a extração, transformação, carregamento (ETL) e análise exploratória dos dados do famoso naufrágio do Titanic.
 
